@@ -1,3 +1,4 @@
+--only-binary=all
 streamlit==1.33.0
 dashscope==1.25.16
 python-dotenv==1.0.1
